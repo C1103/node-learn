@@ -1,0 +1,16 @@
+{
+  "name": "node_static",
+  "version": "0.1.0",
+  "description": "node web server\r url <==> 资源暴露\r 异步\r 静态资源 cdn 服务器\r image\r js\r css\r html...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "C1103 <1103384457@qq.com> (http://c1103.github.io)",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^4.0.11",
+    "mime": "^2.2.0"
+  }
+}
